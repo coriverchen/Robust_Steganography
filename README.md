@@ -8,7 +8,7 @@ In this repository, we will collect papers as well as their codes about robust s
   - Xinzhi Yu, Kejiang Chen, Yaofei Wang, Weixiang Li, WeimingZhang, NenghaiYu. Signal Processing. Volume 168, March 2020, 107343
 
 - DMAS: Dither modulation based adaptive steganography resisting jpeg compression and statistic detection. [[pdf]](https://link.springer.com/article/10.1007/s11042-017-4506-3)
-  -Yi Zhang, Xiaodong Zhu, Chuan Qin, Chunfang Yang, Xiangyang Luo
+  - Yi Zhang, Xiaodong Zhu, Chuan Qin, Chunfang Yang, Xiangyang Luo
 
 
  
