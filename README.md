@@ -5,6 +5,7 @@ In this repository, we will collect papers as well as their codes about robust s
 
 
 - MINICER: Improving robust adaptive steganography via minimizing channel errors. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0165168422000457) 
+   - Kai Zeng, Kejiang Chen, Weiming Zhang, et al. Improving robust adaptive steganography via minimizing channel errors[J]. Signal Processing, 2022, 195: 108498.
 
 ```
 @article{zeng2022improving,
