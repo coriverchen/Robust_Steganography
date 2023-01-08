@@ -4,8 +4,7 @@
 In this repository, we will collect papers as well as their codes about robust steganography.
 
 
-- MINICER: Improving robust adaptive steganography via minimizing channel errors.[[pdf]]
-(https://www.sciencedirect.com/science/article/abs/pii/S0165168422000457)
+- MINICER: Improving robust adaptive steganography via minimizing channel errors. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0165168422000457) 
 
 ```
 @article{zeng2022improving,
