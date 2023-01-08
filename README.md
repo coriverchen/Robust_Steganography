@@ -4,6 +4,21 @@
 In this repository, we will collect papers as well as their codes about robust steganography.
 
 
+- MINICER: Improving robust adaptive steganography via minimizing channel errors.[[pdf]]
+(https://www.sciencedirect.com/science/article/abs/pii/S0165168422000457)
+
+```
+@article{zeng2022improving,
+  title={Improving robust adaptive steganography via minimizing channel errors},
+  author={Zeng, Kai and Chen, Kejiang and Zhang, Weiming and Wang, Yaofei and Yu, Nenghai},
+  journal={Signal Processing},
+  volume={195},
+  pages={108498},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+
 - GMAS: Robust adaptive steganography based on generalized dither modulation and expanded embedding domain. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0165168419303962) 
   - Xinzhi Yu, Kejiang Chen, Yaofei Wang, Weixiang Li, WeimingZhang, NenghaiYu. Signal Processing. Volume 168, March 2020, 107343
 
