@@ -4,6 +4,11 @@
 In this repository, we will collect papers as well as their codes about robust steganography.
 
 
+
+- PMAS: Robust Steganography for High Quality Images.
+   - Kai Zeng, Kejiang Chen, Weiming Zhang, et al. Robust Steganography for High Quality Images[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
+
+
 - MINICER: Improving robust adaptive steganography via minimizing channel errors. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0165168422000457) 
    - Kai Zeng, Kejiang Chen, Weiming Zhang, et al. Improving robust adaptive steganography via minimizing channel errors[J]. Signal Processing, 2022, 195: 108498.
 
@@ -35,12 +40,6 @@ In this repository, we will collect papers as well as their codes about robust s
 ```
 
 
-
-- DMAS: Dither modulation based adaptive steganography resisting jpeg compression and statistic detection. [[pdf]](https://link.springer.com/article/10.1007/s11042-017-4506-3)
-  - Yi Zhang, Xiaodong Zhu, Chuan Qin, Chunfang Yang, Xiangyang Luo
-
-
- 
 
 
 
