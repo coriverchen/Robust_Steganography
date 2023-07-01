@@ -5,7 +5,7 @@ In this repository, we will collect papers as well as their codes about robust s
 
 
 
-- PMAS: Robust Steganography for High Quality Images.
+- PMAS: Robust Steganography for High Quality Images. [[pdf]](https://ieeexplore.ieee.org/document/10057024/)
    - Kai Zeng, Kejiang Chen, Weiming Zhang, et al. Robust Steganography for High Quality Images[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
 
 ``` bibtex
