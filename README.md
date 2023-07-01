@@ -22,7 +22,7 @@ In this repository, we will collect papers as well as their codes about robust s
 - MINICER: Improving robust adaptive steganography via minimizing channel errors. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0165168422000457) 
    - Kai Zeng, Kejiang Chen, Weiming Zhang, et al. Improving robust adaptive steganography via minimizing channel errors[J]. Signal Processing, 2022, 195: 108498.
 
-```
+``` bibtex
 @article{zeng2022improving,
   title={Improving robust adaptive steganography via minimizing channel errors},
   author={Zeng, Kai and Chen, Kejiang and Zhang, Weiming and Wang, Yaofei and Yu, Nenghai},
@@ -37,7 +37,7 @@ In this repository, we will collect papers as well as their codes about robust s
 - GMAS: Robust adaptive steganography based on generalized dither modulation and expanded embedding domain. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0165168419303962) 
   - Xinzhi Yu, Kejiang Chen, Yaofei Wang, Weixiang Li, WeimingZhang, NenghaiYu. Signal Processing. Volume 168, March 2020, 107343
 
-```
+``` bibtex
 @article{yu2020robust,
   title={Robust adaptive steganography based on generalized dither modulation and expanded embedding domain},
   author={Yu, Xinzhi and Chen, Kejiang and Wang, Yaofei and Li, Weixiang and Zhang, Weiming and Yu, Nenghai},
