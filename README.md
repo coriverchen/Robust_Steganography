@@ -3,7 +3,17 @@
 ## Introduction
 In this repository, we will collect papers as well as their codes about robust steganography.
 
-
+- PMAS: Robust Steganography for High Quality Images. [[pdf]](https://ieeexplore.ieee.org/document/10093140/)
+   - Kai Zeng, Kejiang Chen, Weiming Zhang, et al. Upward Robust Steganography Based on Overflow Alleviation[J]. IEEE Transactions on Multimedia, 2023.
+``` bibtex
+@article{zeng2023upward,
+  title={Upward Robust Steganography Based on Overflow Alleviation},
+  author={Zeng, Kai and Chen, Kejiang and Zhang, Weiming and Wang, Yaofei},
+  journal={IEEE Transactions on Multimedia},
+  year={2023},
+  publisher={IEEE}
+}
+```
 
 - PMAS: Robust Steganography for High Quality Images. [[pdf]](https://ieeexplore.ieee.org/document/10057024/)
    - Kai Zeng, Kejiang Chen, Weiming Zhang, et al. Robust Steganography for High Quality Images[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
