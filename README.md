@@ -3,6 +3,19 @@
 ## Introduction
 In this repository, we will collect papers as well as their codes about robust steganography.
 
+- SCRIPT: Toward Secure and Robust Steganography for Black-Box Generated Images. [[pdf]](https://ieeexplore.ieee.org/document/10418193/)
+   - Kai Zeng, Kejiang Chen, Jiansong Zhang, et al. SCRIPT: Toward Secure and Robust Steganography for Black-Box Generated Images[J]. IEEE Transactions on Information Forensics and Security, 2024.
+``` bibtex
+@ARTICLE{script,
+  author={Zeng, Kai and Chen, Kejiang and Zhang, Jiansong and Zhang, Weiming and Yu, Nenghai},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Toward Secure and Robust Steganography for Black-Box Generated Images}, 
+  year={2024},
+  volume={19},
+  pages={3237-3250},
+ }
+```
+
 - ROAST: Upward Robust Steganography Based on Overflow Alleviation. [[pdf]](https://ieeexplore.ieee.org/document/10093140/)
    - Kai Zeng, Kejiang Chen, Weiming Zhang, et al. Upward Robust Steganography Based on Overflow Alleviation[J]. IEEE Transactions on Multimedia, 2023.
 ``` bibtex
