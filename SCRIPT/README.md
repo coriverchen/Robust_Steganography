@@ -16,3 +16,14 @@
 **distortion**: Selected initial distortion, =1 for JUNIWARD, =2 for UERD.
 
 #### *If other essential functions are missing, please look for them in my other repositories*.
+
+``` bibtex
+@ARTICLE{script,
+  author={Zeng, Kai and Chen, Kejiang and Zhang, Jiansong and Zhang, Weiming and Yu, Nenghai},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Toward Secure and Robust Steganography for Black-Box Generated Images}, 
+  year={2024},
+  volume={19},
+  pages={3237-3250},
+ }
+```
